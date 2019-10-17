@@ -1,0 +1,2 @@
+# embed
+stm8l
